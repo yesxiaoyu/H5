@@ -1,1 +1,75 @@
-<mxfile host="www.draw.io" modified="2019-11-07T03:19:15.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="V3VThJnf95J_4wPy1vdz" version="12.2.2" type="github" pages="1"><diagram id="wvxqfmJGiA_zQ_PElmI1" name="Page-1">5VnbctowEP0aPbaDr8iPGJymM0mm03SmzVNGgxVbjW1RIXPp11eyZIwveCADgdAXWB3tytKe1WplA2ucrr4wNIvvaYgTYA7CFbAmwDSHA1f8SmCtAMuFCogYCRVkVMAj+Ys1ONBoTkI8rylyShNOZnVwSrMMT3kNQ4zRZV3thSb1p85QhFvA4xQlbfQnCXmsUGgOK/wWkygun2y4nupJUamsVzKPUUiXW5AVAGvMKOVKSldjnEjflX5Rdjc7ejcTYzjj+xjc4oe751fDDF/u51/R4o6O3dEnPcoCJbleMDDdRIznv1AxrHAYmqoO908uZ+r/IKngwxw84KX4/U5TlFWdQoqK/8AFPgTQKQQbQAMEDvBHYOSW44uJqkdoC+Ujvi4dz/FK4jFPEwEYQpxzRl/xmCaUCSSjGZbTJEnSgFBCokw0p8IxWOD+AjNOBKUj3ZGSMJSP8Zcx4fhxppa4FPErMEbzLMTSZ4PNtOQAeLXT78aGTbELME0xZ2uhUhq4OgD0DjChbi+reLI1FG+FUhk3SEdwtBm5IlkImucDODdPxTkE/g3w4H/H8Ia+S2HYgC1n41CkNd2kjMc0ohlKggr1pzlbFF4xWj6qDO4onWmV35jztU7YKOe0TiVeEf5Lmn92dOtJDyblyWq7sS4bmVi8Mho6Zftpu7OyK1rrGodyif0MCo/QnOng7nadpc8YxCLMe/Rgd0QwnCBOFvV5dPFbmI4YQ+sthRklGZ9vjfxNAlWguc1U4jRSfkPf8Xr1haBmUEXaZilvDz6rnV5k7g8AhFIYCXlyvbnAvbhcYL0hFxxx+5tv2v8Hbf9a5jpiLrD3zAXmOXKBZR2WC8z+3HGaXGDYH/0gOtc5tG/s7chGJ469ZpJrXj0a+gbs1T9N7Nkd55Bd3EomIPCAZwPPu95zyDIv7BxyOui4Af4YwPH1smAPLowFt3tTiGvbpLiqe1K+XjqaeejcdAw76Oh5c3KtvDiN2sS2zl00OxdUt7xDBX3EwgXuWbi45yhcnOGBF+hm/n6Xorm90z9Y0Xy2tzf7Bp99jOBrRYvtdJe5myHUvLRVFUYHR3F/Od0u13fM66RRDDuPNs8pXgMJIQDeFRd+zRPt7JWG0fHWP7CAmBY0r5eG4fvdgkSz+panNlH1QdQK/gE=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-07T04:59:18.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="_-SXkY9Y7C7eG_DytD81" version="12.2.2" type="github" pages="1">
+  <diagram id="wvxqfmJGiA_zQ_PElmI1" name="Page-1">
+    <mxGraphModel dx="853" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;清洁度&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;还&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HeNL_k12dfMsIavLoC6A-3" target="HeNL_k12dfMsIavLoC6A-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="250"/>
+              <mxPoint x="590" y="250"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-3" value="很好" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="HeNL_k12dfMsIavLoC6A-4" target="HeNL_k12dfMsIavLoC6A-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="250"/>
+              <mxPoint x="260" y="250"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HeNL_k12dfMsIavLoC6A-4" target="HeNL_k12dfMsIavLoC6A-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="220"/>
+              <mxPoint x="180" y="220"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-4" value="不错" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-5" value="，" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-6" value="保湿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HeNL_k12dfMsIavLoC6A-8" target="HeNL_k12dfMsIavLoC6A-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="250"/>
+              <mxPoint x="500" y="250"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HeNL_k12dfMsIavLoC6A-8" target="HeNL_k12dfMsIavLoC6A-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="220" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="580" y="220"/>
+              <mxPoint x="350" y="220"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-8" value="效果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeNL_k12dfMsIavLoC6A-12" value="。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
